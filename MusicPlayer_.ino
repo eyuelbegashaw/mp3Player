@@ -12,6 +12,7 @@
 TMRpcm tmrpcm;
 
 int temp = 0;
+int temp1;
 
 void setup() {
 
